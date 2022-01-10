@@ -210,7 +210,7 @@ void wczytywanie(USOS * & glowa)
         cout << "'5' jesli chcesz zresetowac cala liste. Operacji nie da sie cofnac"<<endl;
         cout << "'6' jesli chcesz usunac studenta z USOSA"<<endl;
         cout << "'7' jesli chcesz poznac ilosc elementow na liscie"<<endl;
-        cout << "'X' jesi chcesz zakonczyc program"<<endl;
+        cout << "'X' jesi chcesz zakonczyc i zapisac program"<<endl;
         cout << "W razie pytan technicznych prosimy o kontakt na maila 169840@stud.prz.edu.pl "<<endl;
 
 
